@@ -5,9 +5,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/raviteja769/Excel-Sales-Analytics/blob/dcb74fb1f9ec298a7d1dec34f6c73799a9a22032/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/raviteja769/Excel-Sales-Analytics/blob/dcb74fb1f9ec298a7d1dec34f6c73799a9a22032/Market%20Performance%20vs%20Target%20Report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -20,9 +20,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/raviteja769/Excel-Sales-Analytics/blob/dcb74fb1f9ec298a7d1dec34f6c73799a9a22032/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/raviteja769/Excel-Sales-Analytics/blob/dcb74fb1f9ec298a7d1dec34f6c73799a9a22032/P%26L%20Statement%20by%20Markets.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/raviteja769/Excel-Sales-Analytics/blob/dcb74fb1f9ec298a7d1dec34f6c73799a9a22032/P%26L%20Statement%20by%20Months.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
@@ -33,8 +33,8 @@
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
+- [x]	Ability to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters as per Organization's Fiscal Cycle from the date table
 - [x]	Establishing data model relationships with Power Pivot.
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
