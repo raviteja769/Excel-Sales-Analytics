@@ -1,6 +1,6 @@
 # Excel-Sales-Analytics
 
-	## Sales Report :
+## Sales Report :
 
 
 - **Project objective:** 
