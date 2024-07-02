@@ -20,9 +20,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/raviteja769/Excel-Sales-Analytics/blob/dcb74fb1f9ec298a7d1dec34f6c73799a9a22032/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/raviteja769/Excel-Sales-Analytics/blob/dcb74fb1f9ec298a7d1dec34f6c73799a9a22032/P%26L%20Statement%20by%20Markets.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/raviteja769/Excel-Sales-Analytics/blob/dcb74fb1f9ec298a7d1dec34f6c73799a9a22032/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & [Months](https://github.com/raviteja769/Excel-Sales-Analytics/blob/dcb74fb1f9ec298a7d1dec34f6c73799a9a22032/P%26L%20Statement%20by%20Months.pdf)
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/raviteja769/Excel-Sales-Analytics/blob/dcb74fb1f9ec298a7d1dec34f6c73799a9a22032/P%26L%20Statement%20by%20Months.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by [Markets](https://github.com/raviteja769/Excel-Sales-Analytics/blob/dcb74fb1f9ec298a7d1dec34f6c73799a9a22032/P%26L%20Statement%20by%20Markets.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
